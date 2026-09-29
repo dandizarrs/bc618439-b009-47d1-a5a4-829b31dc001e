@@ -1,0 +1,8 @@
+1790704880s 1 https://dandiarchive.s3.amazonaws.com/zarr/bc618439-b009-47d1-a5a4-829b31dc001e/processing/transcriptomics/xenium_matches/id/.zarray?versionId=UaDkVUjt_2a6BX.teG10YUBFYJKBHXH5
+1790704880s 1 https://api.dandiarchive.org/api/zarr/bc618439-b009-47d1-a5a4-829b31dc001e/files?prefix=processing%2Ftranscriptomics%2Fxenium_matches%2Fid%2F.zarray&download=true
+1790704880s 1 https://dandiarchive.s3.amazonaws.com/zarr/bc618439-b009-47d1-a5a4-829b31dc001e/processing/transcriptomics/xenium_matches/roi_id/.zarray?versionId=uPDyk50E.qIP.gD1jx_dlhfjJ0M_wcZv
+1790704880s 1 https://api.dandiarchive.org/api/zarr/bc618439-b009-47d1-a5a4-829b31dc001e/files?prefix=processing%2Ftranscriptomics%2Fxenium_matches%2Froi_id%2F.zarray&download=true
+1790704881s 1 https://dandiarchive.s3.amazonaws.com/zarr/bc618439-b009-47d1-a5a4-829b31dc001e/processing/transcriptomics/xenium_matches/xenium_cell_id/.zarray?versionId=.ATfD_UnHp35jzQX5M2oQC5.I1vD5Eh6
+1790704881s 1 https://api.dandiarchive.org/api/zarr/bc618439-b009-47d1-a5a4-829b31dc001e/files?prefix=processing%2Ftranscriptomics%2Fxenium_matches%2Fxenium_cell_id%2F.zarray&download=true
+1790704881s 1 https://dandiarchive.s3.amazonaws.com/zarr/bc618439-b009-47d1-a5a4-829b31dc001e/processing/transcriptomics/xenium_matches/xenium_section/.zarray?versionId=DBJoAJDwoosNtj_wZVATt0p_cNNs42Vk
+1790704881s 1 https://api.dandiarchive.org/api/zarr/bc618439-b009-47d1-a5a4-829b31dc001e/files?prefix=processing%2Ftranscriptomics%2Fxenium_matches%2Fxenium_section%2F.zarray&download=true
